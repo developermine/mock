@@ -1,0 +1,12 @@
+{
+  "name": "javascript_model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transactionVerification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
